@@ -2,3 +2,5 @@
 node_modules
 build
 npm-debug.log
+.idea/
+node-system-idle-time.iml
